@@ -1,11 +1,13 @@
 {
   "name": "project-boilerplate",
-  "version": "0.0.0",
   "description": "A simple boilerplate & template generator for open-source JavaScript projects.",
+  "version": "0.0.0",
   "main": "lib/index.js",
   "repository": "https://github.com/VitorLuizC/project-boilerplate.git",
-  "author": "Vitor Cavalcanti <vitorluizc@outlook.com>",
-  "license": "MIT",
-  "private": false,
-  "dependencies": {}
+  "author": {
+    "url": "https://vitorluizc.github.io/",
+    "name": "Vitor Cavalcanti",
+    "email": "vitorluizc@outlook.com"
+  },
+  "license": "MIT"
 }
