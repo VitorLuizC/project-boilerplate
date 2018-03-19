@@ -10,3 +10,8 @@ package-lock.json
 # Log files.
 *.log
 *.log.*
+
+# Environment variables.
+.env
+.env.*
+!.env.default
