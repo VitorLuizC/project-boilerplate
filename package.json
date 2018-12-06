@@ -1,8 +1,7 @@
 {
   "name": "project-boilerplate",
-  "description": "A simple boilerplate & template generator for open-source JavaScript projects.",
   "version": "0.0.0",
-  "main": "lib/index.js",
+  "description": "A simple boilerplate & template generator for open-source JavaScript projects.",
   "repository": "https://github.com/VitorLuizC/project-boilerplate.git",
   "author": {
     "url": "https://vitorluizc.github.io/",

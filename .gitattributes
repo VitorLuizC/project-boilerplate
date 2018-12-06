@@ -1,9 +1,9 @@
-# Treat as text when is possible.
-* text=auto
+# File attributes for Git repository.
+# References at https://git-scm.com/docs/gitattributes.
 
-# Ensure Unix line-endings.
-* eol=lf
+# Handle files as text and ensure Unix line endings.
+* text=auto eol=lf
 
-# Don't show Yarn lockfile's merge conflicts.
-# Since version 1.0, Yarn automatically fix them.
+# Ignore differences on Yarn's lockfile.
+# Since version 1.0, Yarn automatically handle merge conflicts.
 yarn.lock -diff
